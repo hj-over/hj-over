@@ -2,9 +2,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-![react](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black&logoWidth=20)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,react,js,figma,emotion,tailwind)](https://skillicons.dev)
 
 #### 라이브러리
 ![tailwindcss](https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
