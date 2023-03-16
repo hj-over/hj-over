@@ -2,7 +2,7 @@
 
 
 
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 ![react](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black&logoWidth=20)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
