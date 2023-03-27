@@ -2,11 +2,11 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,react,js,ts,figma,emotion,tailwind&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,react,js,ts,figma,emotion,tailwind,styledcomponents&theme=light)](https://skillicons.dev)
 
 #### 라이브러리
 ![tailwindcss](https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![emotion](https://img.shields.io/badge/emotion-A81C7D.svg?style=for-the-badge&logo=Emotion&logoColor=white)<br/>
+![styledcomponents](https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styledcomponents&logoColor=white)<br/>
 
 #### UI 디자인 구상
 ![figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
