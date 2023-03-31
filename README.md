@@ -1,22 +1,30 @@
-### Hi there 👋
+### About ME🎇
+<br/>
 
-#### SKILL✨
+![funny-cat](https://user-images.githubusercontent.com/118712196/229035167-9ffda625-d6c2-4c2f-b027-a29ccd9feb24.gif)
+
+
+
+### SKILL✨
+<br/>
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,react,js,ts,figma,emotion,tailwind,styledcomponents&theme=light)](https://skillicons.dev)
 
 
-#### 라이브러리
+#### CSS
 ![tailwindcss](https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![styledcomponents](https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styledcomponents&logoColor=white)<br/>
 
-#### UI 디자인 구상
+#### Design
 ![figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=AdobePhotoshop&logoColor=white)
+![InDesign](https://img.shields.io/badge/InDesign-FF3366.svg?style=for-the-badge&logo=AdobeInDesign&logoColor=white)
 
-#### 소통
+#### Communication
 ![Notion](https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white&logoWidth=20) <br/>
 
-#### 코드관리
+#### Code Management
 ![github](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white&logoWidth=20)
 ![sourcetree](https://img.shields.io/badge/sourcetree-0052CC.svg?style=for-the-badge&logo=sourcetree&logoColor=white&logoWidth=20) <br/>
 
