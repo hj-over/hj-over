@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-
+#### SKILL✨
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,react,js,ts,figma,emotion,tailwind,styledcomponents&theme=light)](https://skillicons.dev)
+
 
 #### 라이브러리
 ![tailwindcss](https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
